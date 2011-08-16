@@ -1,0 +1,17 @@
+{
+  "author": "Jann Horn <jannhorn@googlemail.com>",
+  "name": "complex-search",
+  "description": "Search for stuff with &, | and parens",
+  "version": "0.1.0",
+  "homepage": "http://github.com/thejh/node-complex-search",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thejh/node-complex-search.git"
+  },
+  "main": "search.js",
+  "engines": {
+    "node": "~v0.5.3"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
