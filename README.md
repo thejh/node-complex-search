@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/thejh/node-complex-search.png)](http://travis-ci.org/thejh/node-complex-search)
     npm install complex-search
 
 Use this for complex, keyword-based search with the following operators:
